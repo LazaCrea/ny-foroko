@@ -1,2 +1,2 @@
-# Maso Lavitra
-Application de contrôle parental.
+# Ny foroko
+Application développer par Laza.
